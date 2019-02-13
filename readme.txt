@@ -14,3 +14,6 @@ Git has a mutable index called stage.
 # $ git add 文件添加，相当于将文件移至.git文件夹内的暂存区
 # $ git commit 提交更改，即把暂存区所有内容提交至当前分支
 
+# vi 模式
+# 输入vi 进入vi的命令行模式（command mode），
+# 稍等片刻后按字母【i】键切换至插入模式（Insert mode） 
