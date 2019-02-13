@@ -16,4 +16,9 @@ Git has a mutable index called stage.
 
 # vi 模式
 # 输入vi 进入vi的命令行模式（command mode），
-# 稍等片刻后按字母【i】键切换至插入模式（Insert mode） 
+# 稍等片刻后按字母【i】键切换至插入模式（Insert mode）
+# 退出：先按【Esc】退至命令行模式，
+    再按【Shift】+【；】即【：】键进入（Last line mode）（必须英文输入法下）
+    最后输入【q】退出（输入【w】为保存）
+
+# rm test.txt rm命令删除没用的文件 
