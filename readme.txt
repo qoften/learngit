@@ -1,5 +1,6 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
 
 # git add 提交前需将git cd至文档所在目录下
 
@@ -9,4 +10,7 @@ Git is free software.
 # $ git add file1.txt
 # $ git add file2.txt file3.txt
 # $ git commit -m "add 3 files."
+
+# $ git add 文件添加，相当于将文件移至.git文件夹内的暂存区
+# $ git commit 提交更改，即把暂存区所有内容提交至当前分支
 
