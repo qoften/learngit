@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick and simple.
-
+Try use --no-ff command.
 
 # git add 提交前需将git cd至文档所在目录下
 
@@ -23,4 +23,5 @@ Creating a new branch is quick and simple.
     再按【Shift】+【；】即【：】键进入（Last line mode）（必须英文输入法下）
     最后输入【q】退出（输入【w】为保存）
 
+# 分支管理，见Dev
 # rm test.txt rm命令删除没用的文件 
